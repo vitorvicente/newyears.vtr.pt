@@ -11,5 +11,11 @@
 - License & README
 - Main Page Initial HTML & CSS
 
-###### Day 50+
+###### Day 50-75
+- Working on Other Projects
+
+###### Day 76
+- Page Update
+
+###### Day 77+
 - Working on Other Projects
