@@ -17,5 +17,8 @@
 ###### Day 76
 - Page Update
 
-###### Day 77+
+###### Day 77
+- Text Update
+
+###### Day 78+
 - Working on Other Projects
